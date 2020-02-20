@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mydata" uuid="1b55b1f9-84c8-4cb0-a07a-074c35b6fb33">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\wang\Desktop\pycharm_with_anaconda\mydata.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
